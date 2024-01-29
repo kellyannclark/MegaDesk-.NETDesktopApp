@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\bin\Debug\MegaDesk-KClark.exe.config
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\bin\Debug\MegaDesk-KClark.exe
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\bin\Debug\MegaDesk-KClark.pdb
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk-KClark.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk_KClark.AddQuote.resources
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk_KClark.MainMenu.resources
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk_KClark.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk_KClark.QuoteList.resources
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk_KClark.SearchQuote.resources
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk-KClark.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk-KClark.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk-KClark.exe
+\\Mac\Home\Desktop\GitHub\MegaDesk-KClark\MegaDesk-KClark\obj\Debug\MegaDesk-KClark.pdb
